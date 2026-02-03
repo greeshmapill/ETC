@@ -2,7 +2,7 @@
 
 We provide a sample app using Ruby that you can deploy on App Platform. These steps will get this sample application running for you using App Platform.
 
-### Requirements
+## Requirements
 
 * You need a DigitalOcean account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new.
 
@@ -26,7 +26,7 @@ After clicking the **Deploy to DigitalOcean** button or completing the instructi
 1. It can take a few minutes for the build to finish, but you can follow the progress in the **Deployments** tab.
 1. Once the build completes successfully, click the **Live App** link in the header and you should see your running application in a new tab, displaying the home page.
 
-### Making Changes to Your App
+## Making Changes to Your App
 
 If you followed the steps to fork the repo and used your own copy when deploying the app, you can push changes to your fork and see App Platform automatically re-deploy the update to your app. During these automatic deployments, your application will never pause or stop serving request because App Platform offers zero-downtime deployments.
 
