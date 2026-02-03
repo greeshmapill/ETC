@@ -24,7 +24,7 @@ After clicking the **Deploy to DigitalOcean** button or completing the instructi
 1. Confirm your **Plan** settings and how many containers you want to launch and click **Launch Basic/Pro App**.
 1. You should see a "Building..." progress indicator. You can click **View Logs** to see more details of the build.
 1. It can take a few minutes for the build to finish, but you can follow the progress in the **Deployments** tab.
-1. Once the build completes successfully, click the **Live App** link in the header and you should see your running application in a new tab, displaying the home page.
+1. Once the build completes successfully, click the **Live App** link in the header and you should see your running application in a new tab, displaying the **home page**.
 
 ## Making Changes to Your App
 
